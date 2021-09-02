@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div>
+<div>
   <a href="https://github.com/rafavilvert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafavilvert&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavilvert&layout=compact&langs_count=7&theme=radical"/>
 </div>
+ <div>
+  <h3>Techs</h3>
+ </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
