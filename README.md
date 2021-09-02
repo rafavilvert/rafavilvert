@@ -31,6 +31,6 @@ Here are some ideas to get you started:
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/rafael-vilvert-246a27111/" target="_blank"><img style:" height=40px;" width:40px; " src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg"></a> 
+  <a href="https://www.linkedin.com/in/rafael-vilvert-246a27111/" target="_blank"><img style:" height=40px;" width:40px; " src="https://img2.gratispng.com/20180320/kgq/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab176563be596.8497903315215796062453.jpg"></a> 
 </div>
 </hr>
