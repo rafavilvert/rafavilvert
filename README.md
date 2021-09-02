@@ -31,6 +31,6 @@ Here are some ideas to get you started:
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/rafael-vilvert-246a27111/" target="_blank"><img style:" height=40px;" width:40px; " src="https://png.pngtree.com/element_our/sm/20180518/sm_5aff6082b4449.jpg"></a> 
+  <a href="https://www.linkedin.com/in/rafael-vilvert-246a27111/" target="_blank"><img style:" height=40px;" width:40px; " src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/similar-icons-with-these-tags-linkedin-pinterest-10.png"></a> 
 </div>
 </hr>
