@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="React" height="30" width="35" src="https://img.icons8.com/color/48/000000/react-native.png">
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   <img align="center" alt="Node" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png">
-  <img align="center" alt="Java" height="30" width="26" src="https://logodownload.org/wp-content/uploads/2017/04/java-logo.png">
+  <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img align="center" alt="SPRING-BOOT" height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   
 </div>
