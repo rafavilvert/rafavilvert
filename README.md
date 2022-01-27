@@ -29,8 +29,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="35" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
   <img align="center" alt="Bootstrap" height="30" width="40"       src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67">
+  <img align="center" alt="Node" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png">
   <img align="center" alt="Java" height="30" width="26" src="https://logodownload.org/wp-content/uploads/2017/04/java-logo.png">
-  <img align="center" alt="SPRING-BOOT" height="30" width="30" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+  <img align="center" alt="SPRING-BOOT" height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   
 </div>
   
