@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
   <h3>Technologies:</h3>
+  <h3>Front end: </h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="35" src="https://img.icons8.com/color/48/000000/react-native.png">
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+  <h3>Back end: </h3>
   <img align="center" alt="Node" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png">
   <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img align="center" alt="SPRING-BOOT" height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-  
 </div>
   
   ##
